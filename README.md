@@ -60,4 +60,5 @@ Vue is a JavaScript framework for building user interfaces. It builds on top of 
 ## Other Requirements for Submissions
 - If possible, follow the standard within the folder you are submitting to.
 - Please avoid creating new directories if at all possible. Try to fit your work into the existing directory structure.
+- If you decide to fix an issue, please be sure to check the comment thread in case somebody is already working on a fix. If nobody is working on it at the moment, please leave a comment stating that you intend to work on it so other people don’t accidentally duplicate your effort.
 
