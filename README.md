@@ -1,5 +1,5 @@
-https://raw.githubusercontent.com/m0hit-kumar/winter-of-contributing/main/Frontend_Web_Development_React_Angular_Vue/assets/angular.png
-https://raw.githubusercontent.com/m0hit-kumar/winter-of-contributing/main/Frontend_Web_Development_React_Angular_Vue/assets/react.png
+![vue](https://user-images.githubusercontent.com/76655825/194720575-f363f54b-07f7-46a0-878f-d618ecfb19f4.png)
+
 
 Contributing guidelines
 Before contributing
