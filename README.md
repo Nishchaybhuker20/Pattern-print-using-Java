@@ -7,7 +7,7 @@
 
 ## Before contributing
 
-Welcome to [Data Structures and Algorithms](https://github.com/Developer-Student-Clubs-MMDU/Data-Structures-and-Algorithms)! Before sending your pull requests, make sure that you __read the whole guidelines__. If you have any doubt on the contributing guide, please feel free to [state it clearly in an issue](https://github.com/TheAlgorithms/Python/issues/new) or ask the community in [our discord channel](https://gitter.im/TheAlgorithms).
+Welcome to [Frontend-Web-Development](https://github.com/Developer-Student-Clubs-MMDU/Frontend-Web-Development)! Before sending your pull requests, make sure that you __read the whole guidelines__. If you have any doubt on the contributing guide, please feel free to [state it clearly in an issue](https://github.com/TheAlgorithms/Python/issues/new) or ask the community in [our discord channel](https://gitter.im/TheAlgorithms).
 
 ## Contributing
 
