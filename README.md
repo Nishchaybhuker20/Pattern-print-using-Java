@@ -43,17 +43,16 @@ By framework, we mean Next.js handles the tooling and configuration needed for R
 
 Vue is a JavaScript framework for building user interfaces. It builds on top of standard HTML, CSS and JavaScript, and provides a declarative and component-based programming model that helps you efficiently develop user interfaces, be it simple or complex.
 
-#### Two Core feature of Vue:
+### Two Core feature of Vue:
 - Declarative Rendering: Vue extends standard HTML with a template syntax that allows us to declaratively describe HTML output based on JavaScript state.
 
 - Reactivity: Vue automatically tracks JavaScript state changes and efficiently updates the DOM when changes happen.
 
-## Building Blocks of a Web Application
+### Building Blocks of a Web Application
 - User Interface: how users will consume and interact with your application.
 - Routing - how users navigate between different parts of your application.
 - Data Fetching - where your data lives and how to get it.
 - Rendering - when and where you render static or dynamic content.
 - Integrations - what third-party services you use (CMS, auth, payments, etc) and how you connect to them.
 - Performance - how to optimize your application for end-users.
-- Scalability - how your application adapts as your team, data, and traffic grow.
-- 
+- Scalability - how your application adapts as your team, data, and traffic grow. 
