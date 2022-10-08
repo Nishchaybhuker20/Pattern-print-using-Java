@@ -7,7 +7,7 @@
 
 ## Before contributing
 
-Welcome to [Frontend-Web-Development](https://github.com/Developer-Student-Clubs-MMDU/Frontend-Web-Development)! Before sending your pull requests, make sure that you __read the whole guidelines__. If you have any doubt on the contributing guide, please feel free to [state it clearly in an issue](https://github.com/TheAlgorithms/Python/issues/new) or ask the community in [our discord channel](https://gitter.im/TheAlgorithms).
+Welcome to [Frontend-Web-Development](https://github.com/Developer-Student-Clubs-MMDU/Frontend-Web-Development)! Before sending your pull requests, make sure that you __read the whole guidelines__.
 
 ## Contributing
 
@@ -29,3 +29,17 @@ __Improving comments__ and __writing proper tests__ are also highly welcome.
 We appreciate any contribution, from fixing a grammar mistake in a comment to implementing complex algorithms. Please read this section if you are contributing your work.
 
 Please help us keep our issue list small by adding fixes: #{$ISSUE_NO} to the commit message of pull requests that resolve open issues. GitHub will use this tag to auto-close the issue when the PR is merged.
+
+### What is React?
+
+React is a JavaScript library for building interactive user interfaces.
+By user interfaces, we mean the elements that users see and interact with on-screen.
+
+### What is Next.js?
+
+Next.js is a React framework that gives you building blocks to create web applications.
+By framework, we mean Next.js handles the tooling and configuration needed for React, and provides additional structure, features, and optimizations for your application.
+
+### What is Vue?
+
+Vue is a JavaScript framework for building user interfaces. It builds on top of standard HTML, CSS and JavaScript, and provides a declarative and component-based programming model that helps you efficiently develop user interfaces, be it simple or complex.
