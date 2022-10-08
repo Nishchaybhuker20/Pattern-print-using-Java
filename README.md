@@ -56,3 +56,8 @@ Vue is a JavaScript framework for building user interfaces. It builds on top of 
 - Integrations: what third-party services you use (CMS, auth, payments, etc) and how you connect to them.
 - Performance: how to optimize your application for end-users.
 - Scalability: how your application adapts as your team, data, and traffic grow. 
+
+## Other Requirements for Submissions
+- If possible, follow the standard within the folder you are submitting to.
+- Please avoid creating new directories if at all possible. Try to fit your work into the existing directory structure.
+
